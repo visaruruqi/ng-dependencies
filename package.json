@@ -1,6 +1,6 @@
 {
-  "name": "ng-dependencies",
-  "version": "0.8.1",
+  "name": "@visaruruqi/ng-dependencies",
+  "version": "0.8.2",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/klei/ng-dependencies"
+    "url": "git://github.com/visaruruqi/ng-dependencies"
   },
   "dependencies": {
     "esprima": "^4.0.1",
